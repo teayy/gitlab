@@ -2,5 +2,5 @@
 int main()
 {
 	printf("Hello world");
-	printf("Change something in program 1");
+	printf("Change something in program 1...");
 }
